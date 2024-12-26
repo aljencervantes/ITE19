@@ -2,7 +2,7 @@
 #include <stdlib.h> // For memory allocation and general utilities
 #include <string.h> // For string manipulation functions
 
-// Function declarations
+// Functions
 int convertRomanToDecimal(const char* roman); // Converts a Roman numeral to its decimal equivalent
 void convertNumberToWords(int num, char* output); // Converts a number to its word representation
 void handleFileProcessing(const char* inputFilePath, const char* outputFilePath); // Handles file I/O and processing
